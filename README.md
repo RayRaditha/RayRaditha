@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ditha
 
-- 🔭 I’m currently working as a Computer Lab Assistant
+- 🔭 I’m currently working as a Software Quality Assurance
 - 🌱 I’m currently learning UI/UX and Game Development
 - 🎓 I’m currently studying at UPN "Veteran" Yogyakarta and Agate Academy
 - 💬 Ask me about Games and Design
